@@ -1,7 +1,7 @@
+
 fun main() {
-    println("Monday")
-    println("Tuesday")
-    println("Wednesday")
-    println("Thursday")
-    println("Friday")
+    val numberOfAdults = 20
+    val numberOfKids = 30
+    val total = numberOfAdults + numberOfKids
+    println("The total party size is: $total")
 }

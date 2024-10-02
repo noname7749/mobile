@@ -1,3 +1,3 @@
 fun main() {
-    println("Today is sunny!")
+    println("New chat message from a friend")
 }
